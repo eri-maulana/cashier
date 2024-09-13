@@ -36,6 +36,13 @@ models:
     status: string nullable
     relationships: 
       hasMany: OrderDetail
+
+  OrderDetail:
+    order_id: foreign
+    product_id: foreign
+    quantity: integer
+    price: integer
+    subtotal: integer
   
   StockAdjustment:
     product_id: foreign
