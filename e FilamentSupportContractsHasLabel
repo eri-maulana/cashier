@@ -1,0 +1,35 @@
+[33mcommit c5335de09f27f6e74f26b702296d399e8d0b5d7a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: eri-maulana <maulanabouble11@gmail.com>
+Date:   Mon Sep 16 10:16:24 2024 +0700
+
+    06. Instalasi Filament
+
+[33mcommit 819ef6d850eecabb78ba88b6a8f89d27a5c1c687[m
+Author: eri-maulana <maulanabouble11@gmail.com>
+Date:   Fri Sep 13 10:33:23 2024 +0700
+
+    05. Membuat Database Factory dan Seeder
+
+[33mcommit 7939f09a8eb610cf7f1eacba790b57015ceacf5d[m
+Author: eri-maulana <maulanabouble11@gmail.com>
+Date:   Fri Sep 13 10:00:51 2024 +0700
+
+    04. Menerapkan Enums
+
+[33mcommit 4ef5debe2ad6488f0e40ec892d8e19cf59411f19[m
+Author: eri-maulana <maulanabouble11@gmail.com>
+Date:   Fri Sep 13 09:54:25 2024 +0700
+
+    03. Modifikasi Model
+
+[33mcommit a257689e3a3fdb76facac980637e5849a58eaedd[m
+Author: eri-maulana <maulanabouble11@gmail.com>
+Date:   Fri Sep 13 09:25:50 2024 +0700
+
+    02. Merancang Database
+
+[33mcommit 99ab158205207f8fcc80a22fa0571226aa67891e[m
+Author: eri-maulana <maulanabouble11@gmail.com>
+Date:   Fri Sep 13 09:10:05 2024 +0700
+
+    01. Instalasi Laravel
